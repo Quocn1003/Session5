@@ -1,0 +1,10 @@
+/* reset CSS */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*
+    Độ ưu tiên: Từ bé đến lớn 
+    element ==> class ==> id ==> !important 
+*/
